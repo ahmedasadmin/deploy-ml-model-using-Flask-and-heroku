@@ -1,0 +1,9 @@
+scikit-learn==1.0.2
+pandas==1.3.5
+numpy==1.21.6
+flask==2.2.5
+matplotlib==3.5.3
+seaborn==0.12.2
+gunicorn 
+pickle4
+requests==2.31.0
